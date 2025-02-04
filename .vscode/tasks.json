@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "CPU-Schedualing-Simulator",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build - CPU-Schedualing-Simulator",
+			"detail": "ng build"
+		}
+	]
+}
